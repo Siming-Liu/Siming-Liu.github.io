@@ -119,13 +119,13 @@ author:
   location         : "Beijing, China"
   email            : "wiadraliu@gmail.com"
   links:
-    - label: "Email"
+    - label: "Email: wiadraliu@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:wiadraliu@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://siming-liu.github.com/"
-    - label: "Instagram"
+    - label: "Instagram: @wiadra_5"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/wiadra_5"
 
