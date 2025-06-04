@@ -112,13 +112,6 @@ analytics:
 
 
 # Site Author
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      author_profile: true
 author:
   name             : "Siming LIU"
   avatar           : "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
